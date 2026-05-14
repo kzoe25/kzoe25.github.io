@@ -192,6 +192,7 @@ header {
 .holographic-card:hover::before {
   opacity: 1;
   transform: rotate(-45deg) translateY(100%);
+}
 
 /* Sidebar End */
 
