@@ -203,6 +203,21 @@ header {
 	color: #FFF;
 }
 
+animation {
+	width: 100px;
+	height: 100px;
+	background-color: #F7ADC1;
+	position: relative;
+	margin: 20px auto;
+	border-radius: 10px;
+	line-height: 100px;
+	font-weight: bold;
+    }
+
+iframe { 
+	border: 5px solid #F7ADC1;
+	border-radius: 15px;
+}
 /* Main END */
 
 footer {
